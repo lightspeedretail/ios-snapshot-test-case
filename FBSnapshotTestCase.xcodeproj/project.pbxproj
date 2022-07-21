@@ -231,9 +231,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 8271378F1C63AB7000354E42 /* Build configuration list for PBXNativeTarget "FBSnapshotTestCase tvOS" */;
 			buildPhases = (
+				827137771C63AB6F00354E42 /* Headers */,
 				827137751C63AB6F00354E42 /* Sources */,
 				827137761C63AB6F00354E42 /* Frameworks */,
-				827137771C63AB6F00354E42 /* Headers */,
 				827137781C63AB6F00354E42 /* Resources */,
 			);
 			buildRules = (
@@ -267,9 +267,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = B31988061AB782D100B0A900 /* Build configuration list for PBXNativeTarget "FBSnapshotTestCase iOS" */;
 			buildPhases = (
+				B31987ED1AB782D000B0A900 /* Headers */,
 				B31987EB1AB782D000B0A900 /* Sources */,
 				B31987EC1AB782D000B0A900 /* Frameworks */,
-				B31987ED1AB782D000B0A900 /* Headers */,
 				B31987EE1AB782D000B0A900 /* Resources */,
 			);
 			buildRules = (
